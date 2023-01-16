@@ -1,0 +1,8 @@
+Install checked: 
+
+SYSTEM:	Darwin beccas-mbp-3.lan 20.3.0 Darwin Kernel Version 20.3.0: Thu Jan 21 00:07:06 PST 2021; root:xnu-7195.81.3~1/RELEASE_X86_64 x86_64
+SHELL:	[/bin/bash]
+GIT:	[/usr/bin/git] git version 2.24.3 (Apple Git-128)
+VIM:	[/usr/bin/vim] VIM - Vi IMproved 8.2 (2019 Dec 12, compiled Dec 21 2020 20:40:08)
+CURL:	[/Users/beccalewis/opt/anaconda3/bin/curl] curl 7.71.1 (x86_64-apple-darwin13.4.0) libcurl/7.71.1 OpenSSL/1.1.1k zlib/1.2.11 libssh2/1.9.0
+NODE:	[/Users/beccalewis/.nvm/versions/node/v18.13.0/bin/node] v18.13.0
